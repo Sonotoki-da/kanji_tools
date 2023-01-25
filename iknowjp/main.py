@@ -1,12 +1,14 @@
 import asyncio
 import json
-from concurrent.futures import as_completed
 import os
+from concurrent.futures import as_completed
 from typing import List
 
 from requests import Response
 from requests.exceptions import HTTPError, JSONDecodeError
 from requests_futures.sessions import FuturesSession
+
+BASE_DIR = os.path.dirname(os.path.realpath(__file__))
 
 
 def get_links() -> List[str]:
@@ -84,8 +86,8 @@ def _make_future_requests(links: List[str], session: FuturesSession):
     return as_completed([session.get(link) for link in links])  # type: ignore
 
 
-def _make_json_dir() -> str:
-    path = os.path.dirname(os.path.realpath(__file__)) + "/json/"
+def _make_dir(folder_name: str) -> str:
+    path = BASE_DIR + f"/{folder_name}/"
     try:
         os.makedirs(path)
     except:
@@ -95,7 +97,7 @@ def _make_json_dir() -> str:
 
 async def fetch_and_save_jsons(links: List[str]) -> List[str]:
     filenames = []
-    filepath = _make_json_dir()
+    filepath = _make_dir("json")
     with FuturesSession() as session:
         for future in _make_future_requests(links, session):
             try:
