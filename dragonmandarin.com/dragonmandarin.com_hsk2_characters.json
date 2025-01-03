@@ -1,0 +1,1213 @@
+[
+    {
+        "index": "1",
+        "character": "为",
+        "pinyin": "wèi, wéi",
+        "definition": "do, handle, govern, act; be",
+        "words": "为什么,因为"
+    },
+    {
+        "index": "2",
+        "character": "到",
+        "pinyin": "dào",
+        "definition": "go to, arrive, been to",
+        "words": ""
+    },
+    {
+        "index": "3",
+        "character": "以",
+        "pinyin": "yǐ",
+        "definition": "by means of; thereby, therefore; consider as; in order to",
+        "words": "可以,所以"
+    },
+    {
+        "index": "4",
+        "character": "要",
+        "pinyin": "yào, yāo",
+        "definition": "necessary, essential; necessity",
+        "words": ""
+    },
+    {
+        "index": "5",
+        "character": "就",
+        "pinyin": "jiù",
+        "definition": "just, simply; to come, go to; to approach, near",
+        "words": ""
+    },
+    {
+        "index": "6",
+        "character": "可",
+        "pinyin": "kě",
+        "definition": "may, can, -able; possibly",
+        "words": "可以,可能"
+    },
+    {
+        "index": "7",
+        "character": "也",
+        "pinyin": "yě",
+        "definition": "also; classical final particle of strong affirmation or identity",
+        "words": ""
+    },
+    {
+        "index": "8",
+        "character": "得",
+        "pinyin": "de, dé, děi",
+        "definition": "obtain, get, gain, acquire",
+        "words": "觉得"
+    },
+    {
+        "index": "9",
+        "character": "着",
+        "pinyin": "zhe",
+        "definition": "make move, take action",
+        "words": ""
+    },
+    {
+        "index": "10",
+        "character": "过",
+        "pinyin": "guò, guo",
+        "definition": "pass, pass through, go across",
+        "words": ""
+    },
+    {
+        "index": "11",
+        "character": "道",
+        "pinyin": "dào, dao",
+        "definition": "path, road, street; method, way",
+        "words": "知道"
+    },
+    {
+        "index": "12",
+        "character": "所",
+        "pinyin": "suǒ",
+        "definition": "place, location; numerary adjunct",
+        "words": "所以"
+    },
+    {
+        "index": "13",
+        "character": "然",
+        "pinyin": "rán",
+        "definition": "yes, certainly; pledge, promise",
+        "words": "虽然"
+    },
+    {
+        "index": "14",
+        "character": "事",
+        "pinyin": "shì, shi",
+        "definition": "affair, matter, business; to serve; accident, incident",
+        "words": "事情"
+    },
+    {
+        "index": "15",
+        "character": "经",
+        "pinyin": "jīng, jing",
+        "definition": "classic works; pass through",
+        "words": "已经"
+    },
+    {
+        "index": "16",
+        "character": "动",
+        "pinyin": "dòng",
+        "definition": "move, happen; movement, action",
+        "words": "运动"
+    },
+    {
+        "index": "17",
+        "character": "还",
+        "pinyin": "hái",
+        "definition": "still, yet, also, besides",
+        "words": ""
+    },
+    {
+        "index": "18",
+        "character": "进",
+        "pinyin": "jìn",
+        "definition": "advance, make progress, enter",
+        "words": ""
+    },
+    {
+        "index": "19",
+        "character": "但",
+        "pinyin": "dàn",
+        "definition": "only; but, however, yet, still",
+        "words": "但是"
+    },
+    {
+        "index": "20",
+        "character": "因",
+        "pinyin": "yīn",
+        "definition": "cause, reason; by; because (of)",
+        "words": "因为"
+    },
+    {
+        "index": "21",
+        "character": "从",
+        "pinyin": "cóng",
+        "definition": "from, by, since, whence, through",
+        "words": ""
+    },
+    {
+        "index": "22",
+        "character": "日",
+        "pinyin": "rì",
+        "definition": "sun; day; daytime",
+        "words": "生日"
+    },
+    {
+        "index": "23",
+        "character": "意",
+        "pinyin": "yì, yi",
+        "definition": "thought, idea, opinion; think",
+        "words": "意思"
+    },
+    {
+        "index": "24",
+        "character": "它",
+        "pinyin": "tā",
+        "definition": "it; other",
+        "words": ""
+    },
+    {
+        "index": "25",
+        "character": "长",
+        "pinyin": "zhǎng, cháng",
+        "definition": "long; length; excel in; leader",
+        "words": ""
+    },
+    {
+        "index": "26",
+        "character": "第",
+        "pinyin": "dì",
+        "definition": "sequence, number; grade, degree",
+        "words": "第一"
+    },
+    {
+        "index": "27",
+        "character": "公",
+        "pinyin": "gōng",
+        "definition": "fair, equitable; public; duke",
+        "words": "公共汽车,公司"
+    },
+    {
+        "index": "28",
+        "character": "已",
+        "pinyin": "yǐ",
+        "definition": "already; finished; stop",
+        "words": "已经"
+    },
+    {
+        "index": "29",
+        "character": "情",
+        "pinyin": "qíng, qing",
+        "definition": "feeling, sentiment, emotion",
+        "words": "事情"
+    },
+    {
+        "index": "30",
+        "character": "知",
+        "pinyin": "zhī",
+        "definition": "know, perceive, comprehend",
+        "words": "知道"
+    },
+    {
+        "index": "31",
+        "character": "正",
+        "pinyin": "zhèng",
+        "definition": "right, proper, correct",
+        "words": "正在"
+    },
+    {
+        "index": "32",
+        "character": "外",
+        "pinyin": "wài",
+        "definition": "out, outside, external; foreign",
+        "words": ""
+    },
+    {
+        "index": "33",
+        "character": "两",
+        "pinyin": "liǎng",
+        "definition": "two, both, pair, couple; ounce",
+        "words": ""
+    },
+    {
+        "index": "34",
+        "character": "间",
+        "pinyin": "jiān",
+        "definition": "midpoint, space; place, locality",
+        "words": "房间,时间"
+    },
+    {
+        "index": "35",
+        "character": "问",
+        "pinyin": "wèn",
+        "definition": "ask about, inquire after",
+        "words": "问题"
+    },
+    {
+        "index": "36",
+        "character": "最",
+        "pinyin": "zuì",
+        "definition": "most, extremely, exceedingly",
+        "words": ""
+    },
+    {
+        "index": "37",
+        "character": "手",
+        "pinyin": "shǒu",
+        "definition": "hand",
+        "words": "手机,手表"
+    },
+    {
+        "index": "38",
+        "character": "体",
+        "pinyin": "tǐ",
+        "definition": "body; group, class, body, unit; inferior",
+        "words": "身体"
+    },
+    {
+        "index": "39",
+        "character": "等",
+        "pinyin": "děng",
+        "definition": "rank, grade; wait; equal; 'etc.'",
+        "words": ""
+    },
+    {
+        "index": "40",
+        "character": "新",
+        "pinyin": "xīn",
+        "definition": "new, recent, fresh, modern",
+        "words": ""
+    },
+    {
+        "index": "41",
+        "character": "身",
+        "pinyin": "shēn",
+        "definition": "body; trunk, hull; rad. no. 158",
+        "words": "身体"
+    },
+    {
+        "index": "42",
+        "character": "表",
+        "pinyin": "biǎo",
+        "definition": "show, express, manifest, display",
+        "words": "手表"
+    },
+    {
+        "index": "43",
+        "character": "给",
+        "pinyin": "gěi",
+        "definition": "give; by, for",
+        "words": ""
+    },
+    {
+        "index": "44",
+        "character": "次",
+        "pinyin": "cì",
+        "definition": "order, sequence; next",
+        "words": ""
+    },
+    {
+        "index": "45",
+        "character": "门",
+        "pinyin": "mén",
+        "definition": "gate, door, entrance, opening",
+        "words": ""
+    },
+    {
+        "index": "46",
+        "character": "常",
+        "pinyin": "cháng",
+        "definition": "common, normal, frequent, regular",
+        "words": "非常"
+    },
+    {
+        "index": "47",
+        "character": "教",
+        "pinyin": "jiào, jiāo",
+        "definition": "teach, class",
+        "words": "教室"
+    },
+    {
+        "index": "48",
+        "character": "比",
+        "pinyin": "bǐ",
+        "definition": "to compare, liken; comparison; than",
+        "words": ""
+    },
+    {
+        "index": "49",
+        "character": "员",
+        "pinyin": "yuán",
+        "definition": "member; personnel, staff member",
+        "words": "服务员"
+    },
+    {
+        "index": "50",
+        "character": "真",
+        "pinyin": "zhēn",
+        "definition": "real, actual, true, genuine",
+        "words": ""
+    },
+    {
+        "index": "51",
+        "character": "走",
+        "pinyin": "zǒu",
+        "definition": "walk, go on foot; run; leave",
+        "words": ""
+    },
+    {
+        "index": "52",
+        "character": "条",
+        "pinyin": "tiáo",
+        "definition": "clause, condition; string, stripe",
+        "words": "面条"
+    },
+    {
+        "index": "53",
+        "character": "题",
+        "pinyin": "tí",
+        "definition": "forehead; title, headline; theme",
+        "words": "问题"
+    },
+    {
+        "index": "54",
+        "character": "别",
+        "pinyin": "bié",
+        "definition": "separate, other; do not",
+        "words": ""
+    },
+    {
+        "index": "55",
+        "character": "报",
+        "pinyin": "bào",
+        "definition": "report, tell, announce",
+        "words": "报纸"
+    },
+    {
+        "index": "56",
+        "character": "务",
+        "pinyin": "wu, wù",
+        "definition": "affairs, business; must, should",
+        "words": "服务员"
+    },
+    {
+        "index": "57",
+        "character": "场",
+        "pinyin": "chǎng, cháng",
+        "definition": "open space, field, market",
+        "words": "机场"
+    },
+    {
+        "index": "58",
+        "character": "件",
+        "pinyin": "jiàn",
+        "definition": "numerary adjunct for article; matter",
+        "words": ""
+    },
+    {
+        "index": "59",
+        "character": "便",
+        "pinyin": "biàn",
+        "definition": "convenience, ease; expedient",
+        "words": "便宜"
+    },
+    {
+        "index": "60",
+        "character": "司",
+        "pinyin": "sī",
+        "definition": "take charge of, control, manage; officer",
+        "words": "公司"
+    },
+    {
+        "index": "61",
+        "character": "眼",
+        "pinyin": "yǎn",
+        "definition": "eye; eyelet, hole, opening",
+        "words": "眼睛"
+    },
+    {
+        "index": "62",
+        "character": "非",
+        "pinyin": "fēi",
+        "definition": "not, negative, non-; oppose",
+        "words": "非常"
+    },
+    {
+        "index": "63",
+        "character": "白",
+        "pinyin": "bái, bai",
+        "definition": "white; pure, unblemished; bright",
+        "words": ""
+    },
+    {
+        "index": "64",
+        "character": "思",
+        "pinyin": "sī, si",
+        "definition": "think, consider, ponder; final particle",
+        "words": "意思"
+    },
+    {
+        "index": "65",
+        "character": "完",
+        "pinyin": "wán",
+        "definition": "complete, finish, settle; whole",
+        "words": ""
+    },
+    {
+        "index": "66",
+        "character": "色",
+        "pinyin": "sè",
+        "definition": "color, tint, hue, shade; form, body; beauty, desire for beauty",
+        "words": "颜色"
+    },
+    {
+        "index": "67",
+        "character": "路",
+        "pinyin": "lù",
+        "definition": "road, path, street; journey",
+        "words": ""
+    },
+    {
+        "index": "68",
+        "character": "告",
+        "pinyin": "gào",
+        "definition": "tell, announce, inform; accuse",
+        "words": "告诉"
+    },
+    {
+        "index": "69",
+        "character": "边",
+        "pinyin": "biān, bian",
+        "definition": "edge, margin, side, border",
+        "words": "右边,左边,旁边"
+    },
+    {
+        "index": "70",
+        "character": "望",
+        "pinyin": "wàng",
+        "definition": "to look at, look forward; to hope, expect",
+        "words": "希望"
+    },
+    {
+        "index": "71",
+        "character": "共",
+        "pinyin": "gòng",
+        "definition": "together with, all, total; to share",
+        "words": "公共汽车"
+    },
+    {
+        "index": "72",
+        "character": "让",
+        "pinyin": "ràng",
+        "definition": "allow, permit, yield, concede",
+        "words": ""
+    },
+    {
+        "index": "73",
+        "character": "运",
+        "pinyin": "yùn",
+        "definition": "run; simplified form of 運 luck, fortune; ship, transport",
+        "words": "运动"
+    },
+    {
+        "index": "74",
+        "character": "笑",
+        "pinyin": "xiào",
+        "definition": "smile, laugh, giggle; snicker",
+        "words": ""
+    },
+    {
+        "index": "75",
+        "character": "步",
+        "pinyin": "bù",
+        "definition": "step, pace; walk, stroll",
+        "words": "跑步"
+    },
+    {
+        "index": "76",
+        "character": "每",
+        "pinyin": "měi",
+        "definition": "every, each",
+        "words": ""
+    },
+    {
+        "index": "77",
+        "character": "快",
+        "pinyin": "kuài",
+        "definition": "rapid, quick, speedy, fast; soon",
+        "words": "快乐"
+    },
+    {
+        "index": "78",
+        "character": "往",
+        "pinyin": "wǎng, wàng",
+        "definition": "go, depart; past, formerly",
+        "words": ""
+    },
+    {
+        "index": "79",
+        "character": "近",
+        "pinyin": "jìn",
+        "definition": "near, close; approach; intimate",
+        "words": ""
+    },
+    {
+        "index": "80",
+        "character": "夫",
+        "pinyin": "fu, fū",
+        "definition": "man, male adult, husband; those",
+        "words": "丈夫"
+    },
+    {
+        "index": "81",
+        "character": "准",
+        "pinyin": "zhǔn",
+        "definition": "approve, allow, permit; in accord",
+        "words": "准备"
+    },
+    {
+        "index": "82",
+        "character": "始",
+        "pinyin": "shǐ",
+        "definition": "begin, start; then, only then",
+        "words": "开始"
+    },
+    {
+        "index": "83",
+        "character": "远",
+        "pinyin": "yuǎn",
+        "definition": "distant, remote, far; profound",
+        "words": ""
+    },
+    {
+        "index": "84",
+        "character": "备",
+        "pinyin": "bèi",
+        "definition": "prepare, ready, perfect",
+        "words": "准备"
+    },
+    {
+        "index": "85",
+        "character": "百",
+        "pinyin": "bǎi",
+        "definition": "one hundred; numerous, many",
+        "words": ""
+    },
+    {
+        "index": "86",
+        "character": "离",
+        "pinyin": "lí",
+        "definition": "rare beast; strange; elegant",
+        "words": ""
+    },
+    {
+        "index": "87",
+        "character": "病",
+        "pinyin": "bìng",
+        "definition": "illness, sickness, disease",
+        "words": "生病"
+    },
+    {
+        "index": "88",
+        "character": "息",
+        "pinyin": "xi, xī",
+        "definition": "rest, put stop to, end, cease",
+        "words": "休息"
+    },
+    {
+        "index": "89",
+        "character": "火",
+        "pinyin": "huǒ",
+        "definition": "fire, flame; burn; anger, rage",
+        "words": "火车站"
+    },
+    {
+        "index": "90",
+        "character": "早",
+        "pinyin": "zǎo",
+        "definition": "early; soon; morning",
+        "words": "早上"
+    },
+    {
+        "index": "91",
+        "character": "找",
+        "pinyin": "zhǎo",
+        "definition": "search, seek, look for; find",
+        "words": ""
+    },
+    {
+        "index": "92",
+        "character": "吧",
+        "pinyin": "ba",
+        "definition": "emphatic final particle",
+        "words": ""
+    },
+    {
+        "index": "93",
+        "character": "考",
+        "pinyin": "kǎo",
+        "definition": "examine, test; investigate",
+        "words": "考试"
+    },
+    {
+        "index": "94",
+        "character": "红",
+        "pinyin": "hóng",
+        "definition": "red, vermillion; blush, flush",
+        "words": ""
+    },
+    {
+        "index": "95",
+        "character": "虽",
+        "pinyin": "suī",
+        "definition": "although, even if",
+        "words": "虽然"
+    },
+    {
+        "index": "96",
+        "character": "希",
+        "pinyin": "xī",
+        "definition": "rare; hope, expect, strive for",
+        "words": "希望"
+    },
+    {
+        "index": "97",
+        "character": "房",
+        "pinyin": "fáng",
+        "definition": "house, building; room",
+        "words": "房间"
+    },
+    {
+        "index": "98",
+        "character": "黑",
+        "pinyin": "hēi",
+        "definition": "black; dark; evil, sinister",
+        "words": ""
+    },
+    {
+        "index": "99",
+        "character": "足",
+        "pinyin": "zú",
+        "definition": "foot; attain, satisfy, enough",
+        "words": "踢足球"
+    },
+    {
+        "index": "100",
+        "character": "孩",
+        "pinyin": "hái",
+        "definition": "baby, child; children",
+        "words": "孩子"
+    },
+    {
+        "index": "101",
+        "character": "站",
+        "pinyin": "zhàn",
+        "definition": "stand up; a stand, station",
+        "words": "火车站"
+    },
+    {
+        "index": "102",
+        "character": "诉",
+        "pinyin": "su, sù",
+        "definition": "accuse; sue; inform; narrate",
+        "words": "告诉"
+    },
+    {
+        "index": "103",
+        "character": "千",
+        "pinyin": "qiān",
+        "definition": "thousand; many, numerous; very; (Cant.) a cheater, swindler",
+        "words": ""
+    },
+    {
+        "index": "104",
+        "character": "男",
+        "pinyin": "nán",
+        "definition": "male, man; son; baron; surname",
+        "words": ""
+    },
+    {
+        "index": "105",
+        "character": "助",
+        "pinyin": "zhù",
+        "definition": "help, aid, assist",
+        "words": "帮助"
+    },
+    {
+        "index": "106",
+        "character": "乐",
+        "pinyin": "lè, yuè",
+        "definition": "happy, glad; enjoyable; music",
+        "words": "快乐"
+    },
+    {
+        "index": "107",
+        "character": "球",
+        "pinyin": "qiú",
+        "definition": "ball, sphere, globe; round",
+        "words": "打篮球,踢足球"
+    },
+    {
+        "index": "108",
+        "character": "错",
+        "pinyin": "cuò",
+        "definition": "error, blunder, mistake; wrong",
+        "words": ""
+    },
+    {
+        "index": "109",
+        "character": "晚",
+        "pinyin": "wǎn",
+        "definition": "night, evening; late",
+        "words": "晚上"
+    },
+    {
+        "index": "110",
+        "character": "试",
+        "pinyin": "shì",
+        "definition": "test, try, experiment",
+        "words": "考试"
+    },
+    {
+        "index": "111",
+        "character": "送",
+        "pinyin": "sòng",
+        "definition": "see off, send off; dispatch, give",
+        "words": ""
+    },
+    {
+        "index": "112",
+        "character": "药",
+        "pinyin": "yào",
+        "definition": "leaf of Dahurian angelica plant; medicine",
+        "words": ""
+    },
+    {
+        "index": "113",
+        "character": "游",
+        "pinyin": "yóu",
+        "definition": "to swim; float, drift; wander, roam",
+        "words": "旅游,游泳"
+    },
+    {
+        "index": "114",
+        "character": "室",
+        "pinyin": "shì",
+        "definition": "room, home, house, chamber",
+        "words": "教室"
+    },
+    {
+        "index": "115",
+        "character": "您",
+        "pinyin": "nín",
+        "definition": "honorific for 'you'",
+        "words": ""
+    },
+    {
+        "index": "116",
+        "character": "帮",
+        "pinyin": "bāng",
+        "definition": "help, assist; defend; shoe upper",
+        "words": "帮助"
+    },
+    {
+        "index": "117",
+        "character": "左",
+        "pinyin": "zuǒ",
+        "definition": "left; east; unorthodox, improper",
+        "words": "左边"
+    },
+    {
+        "index": "118",
+        "character": "右",
+        "pinyin": "yòu",
+        "definition": "right; west; right-wing",
+        "words": "右边"
+    },
+    {
+        "index": "119",
+        "character": "穿",
+        "pinyin": "chuān",
+        "definition": "penetrate, pierce, drill; wear",
+        "words": ""
+    },
+    {
+        "index": "120",
+        "character": "哥",
+        "pinyin": "gē, ge",
+        "definition": "elder brother",
+        "words": "哥哥"
+    },
+    {
+        "index": "121",
+        "character": "弟",
+        "pinyin": "dì, di",
+        "definition": "young brother; junior; i, me",
+        "words": "弟弟"
+    },
+    {
+        "index": "122",
+        "character": "慢",
+        "pinyin": "màn",
+        "definition": "slow(ly), leisurely, sluggish",
+        "words": ""
+    },
+    {
+        "index": "123",
+        "character": "忙",
+        "pinyin": "máng",
+        "definition": "busy, pressed for time; hustling",
+        "words": ""
+    },
+    {
+        "index": "124",
+        "character": "介",
+        "pinyin": "jiè",
+        "definition": "forerunner, herald, harbinger; to lie between; sea shell; to wear armor",
+        "words": "介绍"
+    },
+    {
+        "index": "125",
+        "character": "鱼",
+        "pinyin": "yú",
+        "definition": "fish; surname; KangXi radical 195",
+        "words": ""
+    },
+    {
+        "index": "126",
+        "character": "跑",
+        "pinyin": "pǎo",
+        "definition": "run, flee, leave in hurry",
+        "words": "跑步"
+    },
+    {
+        "index": "127",
+        "character": "贵",
+        "pinyin": "guì",
+        "definition": "expensive, costly, valuable",
+        "words": ""
+    },
+    {
+        "index": "128",
+        "character": "班",
+        "pinyin": "bān",
+        "definition": "class, group, grade; squad; job",
+        "words": "上班"
+    },
+    {
+        "index": "129",
+        "character": "票",
+        "pinyin": "piào",
+        "definition": "slip of paper or bamboo; ticket",
+        "words": ""
+    },
+    {
+        "index": "130",
+        "character": "睛",
+        "pinyin": "jing",
+        "definition": "eyeball; pupil of eye",
+        "words": "眼睛"
+    },
+    {
+        "index": "131",
+        "character": "旅",
+        "pinyin": "lǚ",
+        "definition": "trip, journey; travel; traveler",
+        "words": "旅游"
+    },
+    {
+        "index": "132",
+        "character": "笔",
+        "pinyin": "bǐ",
+        "definition": "writing brush; write; stroke",
+        "words": "铅笔"
+    },
+    {
+        "index": "133",
+        "character": "卖",
+        "pinyin": "mài, mai",
+        "definition": "sell; betray; show off",
+        "words": ""
+    },
+    {
+        "index": "134",
+        "character": "旁",
+        "pinyin": "páng",
+        "definition": "side; by side, close by, near",
+        "words": "旁边"
+    },
+    {
+        "index": "135",
+        "character": "阴",
+        "pinyin": "yīn",
+        "definition": "'female' principle; dark; secret",
+        "words": ""
+    },
+    {
+        "index": "136",
+        "character": "跳",
+        "pinyin": "tiào",
+        "definition": "jump, leap, vault, bounce; dance",
+        "words": "跳舞"
+    },
+    {
+        "index": "137",
+        "character": "雪",
+        "pinyin": "xuě",
+        "definition": "snow; wipe away shame, avenge",
+        "words": ""
+    },
+    {
+        "index": "138",
+        "character": "肉",
+        "pinyin": "ròu",
+        "definition": "flesh; meat; KangXi radical 130",
+        "words": "羊肉"
+    },
+    {
+        "index": "139",
+        "character": "馆",
+        "pinyin": "guǎn",
+        "definition": "public building",
+        "words": "宾馆"
+    },
+    {
+        "index": "140",
+        "character": "牛",
+        "pinyin": "niú",
+        "definition": "cow, ox, bull; KangXi radical93",
+        "words": "牛奶"
+    },
+    {
+        "index": "141",
+        "character": "纸",
+        "pinyin": "zhǐ",
+        "definition": "paper",
+        "words": "报纸"
+    },
+    {
+        "index": "142",
+        "character": "歌",
+        "pinyin": "gē",
+        "definition": "song, lyrics; sing, chant; praise",
+        "words": "唱歌"
+    },
+    {
+        "index": "143",
+        "character": "床",
+        "pinyin": "chuáng",
+        "definition": "bed, couch; framework, chassis",
+        "words": "起床"
+    },
+    {
+        "index": "144",
+        "character": "玩",
+        "pinyin": "wán",
+        "definition": "play with, joke, enjoy",
+        "words": ""
+    },
+    {
+        "index": "145",
+        "character": "妻",
+        "pinyin": "qī",
+        "definition": "wife",
+        "words": "妻子"
+    },
+    {
+        "index": "146",
+        "character": "休",
+        "pinyin": "xiū",
+        "definition": "rest, stop; retire; do not!",
+        "words": "休息"
+    },
+    {
+        "index": "147",
+        "character": "舞",
+        "pinyin": "wǔ",
+        "definition": "dance, posture, prance; brandish",
+        "words": "跳舞"
+    },
+    {
+        "index": "148",
+        "character": "姓",
+        "pinyin": "xìng",
+        "definition": "one's family name; clan, people",
+        "words": ""
+    },
+    {
+        "index": "149",
+        "character": "妹",
+        "pinyin": "mèi, mei",
+        "definition": "younger sister",
+        "words": "妹妹"
+    },
+    {
+        "index": "150",
+        "character": "汽",
+        "pinyin": "qì",
+        "definition": "steam, vapor, gas",
+        "words": "公共汽车"
+    },
+    {
+        "index": "151",
+        "character": "课",
+        "pinyin": "kè",
+        "definition": "lesson; course; classwork",
+        "words": ""
+    },
+    {
+        "index": "152",
+        "character": "懂",
+        "pinyin": "dǒng",
+        "definition": "understand, comprehend",
+        "words": ""
+    },
+    {
+        "index": "153",
+        "character": "绍",
+        "pinyin": "shào",
+        "definition": "continue, carry on; join",
+        "words": "介绍"
+    },
+    {
+        "index": "154",
+        "character": "丈",
+        "pinyin": "zhàng",
+        "definition": "unit of length equal 3.3 meters; gentleman, man, husband",
+        "words": "丈夫"
+    },
+    {
+        "index": "155",
+        "character": "洗",
+        "pinyin": "xǐ",
+        "definition": "wash, rinse; clean, purify",
+        "words": ""
+    },
+    {
+        "index": "156",
+        "character": "唱",
+        "pinyin": "chàng",
+        "definition": "sing, chant, call; ditty, song",
+        "words": "唱歌"
+    },
+    {
+        "index": "157",
+        "character": "奶",
+        "pinyin": "nǎi, nai",
+        "definition": "milk; woman's breasts; nurse",
+        "words": "牛奶"
+    },
+    {
+        "index": "158",
+        "character": "宜",
+        "pinyin": "yi, yí",
+        "definition": "suitable, right, fitting, proper",
+        "words": "便宜"
+    },
+    {
+        "index": "159",
+        "character": "累",
+        "pinyin": "lèi, lěi",
+        "definition": "tired; implicate, involve; bother",
+        "words": ""
+    },
+    {
+        "index": "160",
+        "character": "羊",
+        "pinyin": "yáng",
+        "definition": "sheep, goat; KangXi radical 123",
+        "words": "羊肉"
+    },
+    {
+        "index": "161",
+        "character": "零",
+        "pinyin": "líng",
+        "definition": "zero; fragment, fraction",
+        "words": ""
+    },
+    {
+        "index": "162",
+        "character": "蛋",
+        "pinyin": "dàn",
+        "definition": "eggs; term of abuse",
+        "words": "鸡蛋"
+    },
+    {
+        "index": "163",
+        "character": "鸡",
+        "pinyin": "jī",
+        "definition": "chicken",
+        "words": "鸡蛋"
+    },
+    {
+        "index": "164",
+        "character": "宾",
+        "pinyin": "bīn",
+        "definition": "guest, visitor; surname; submit",
+        "words": "宾馆"
+    },
+    {
+        "index": "165",
+        "character": "颜",
+        "pinyin": "yán",
+        "definition": "face, facial appearance",
+        "words": "颜色"
+    },
+    {
+        "index": "166",
+        "character": "瓜",
+        "pinyin": "guā",
+        "definition": "melon, gourd, cucumber; rad. 97",
+        "words": "西瓜"
+    },
+    {
+        "index": "167",
+        "character": "晴",
+        "pinyin": "qíng",
+        "definition": "clear weather, fine weather",
+        "words": ""
+    },
+    {
+        "index": "168",
+        "character": "啡",
+        "pinyin": "fēi",
+        "definition": "morphine; coffee",
+        "words": "咖啡"
+    },
+    {
+        "index": "169",
+        "character": "篮",
+        "pinyin": "lán",
+        "definition": "basket",
+        "words": "打篮球"
+    },
+    {
+        "index": "170",
+        "character": "咖",
+        "pinyin": "kā",
+        "definition": "coffee; a phonetic",
+        "words": "咖啡"
+    },
+    {
+        "index": "171",
+        "character": "踢",
+        "pinyin": "tī",
+        "definition": "kick",
+        "words": "踢足球"
+    },
+    {
+        "index": "172",
+        "character": "泳",
+        "pinyin": "yǒng",
+        "definition": "dive; swim",
+        "words": "游泳"
+    },
+    {
+        "index": "173",
+        "character": "铅",
+        "pinyin": "qiān",
+        "definition": "lead",
+        "words": "铅笔"
+    }
+]
