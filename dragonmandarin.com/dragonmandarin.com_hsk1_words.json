@@ -1,0 +1,1484 @@
+[
+    {
+        "index": "9",
+        "character": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we; us; ourselves; our",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "9th word"
+                }
+            ],
+            "definitions": [
+                "we",
+                "us",
+                "ourselves",
+                "our"
+            ],
+            "audio_file": "./data/audio/polly-female-word64418_4hLckPz.mp3"
+        }
+    },
+    {
+        "index": "15",
+        "character": "什么",
+        "pinyin": "shén me",
+        "meaning": "what?; something; anything",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "17th word"
+                }
+            ],
+            "definitions": [
+                "what?",
+                "something",
+                "anything"
+            ],
+            "audio_file": "./data/audio/polly-female-word8752_2o7WXJl.mp3"
+        }
+    },
+    {
+        "index": "31",
+        "character": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "haven't; hasn't; doesn't exist; to not have; to not be",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "48th word"
+                }
+            ],
+            "definitions": [
+                "haven't",
+                "hasn't",
+                "doesn't exist",
+                "to not have",
+                "to not be"
+            ],
+            "audio_file": "./data/audio/polly-female-word92910.mp3"
+        }
+    },
+    {
+        "index": "33",
+        "character": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how?; what?; why?; variant of 怎麼|怎么[zen3 me5]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "55th word"
+                }
+            ],
+            "definitions": [
+                "how?",
+                "what?",
+                "why?",
+                "variant of 怎麼|怎么[zen3 me5]"
+            ],
+            "audio_file": "./data/audio/polly-female-word60681.mp3"
+        }
+    },
+    {
+        "index": "34",
+        "character": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now; at present; at the moment; modern; current; nowadays",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "56th word"
+                }
+            ],
+            "definitions": [
+                "now",
+                "at present",
+                "at the moment",
+                "modern",
+                "current",
+                "nowadays"
+            ],
+            "audio_file": "./data/audio/polly-female-word107997.mp3"
+        }
+    },
+    {
+        "index": "42",
+        "character": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time; length of time; moment; period",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "82nd word"
+                }
+            ],
+            "definitions": [
+                "time",
+                "length of time",
+                "moment",
+                "period"
+            ],
+            "audio_file": "./data/audio/polly-female-word78167.mp3"
+        }
+    },
+    {
+        "index": "44",
+        "character": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "to thank; thanks; thank you",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "85th word"
+                }
+            ],
+            "definitions": [
+                "to thank",
+                "thanks",
+                "thank you"
+            ],
+            "audio_file": "./data/audio/polly-female-word151657.mp3"
+        }
+    },
+    {
+        "index": "45",
+        "character": "先生",
+        "pinyin": "xiān sheng",
+        "meaning": "Mister (Mr.); teacher; husband; doctor (dialect); CL:位[wei4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "93rd word"
+                }
+            ],
+            "definitions": [
+                "Mister (Mr.)",
+                "teacher",
+                "husband",
+                "doctor (dialect)",
+                "CL:位[wei4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word15441.mp3"
+        }
+    },
+    {
+        "index": "46",
+        "character": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like; to be fond of",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "96th word"
+                }
+            ],
+            "definitions": [
+                "to like",
+                "to be fond of"
+            ],
+            "audio_file": "./data/audio/polly-female-word32920.mp3"
+        }
+    },
+    {
+        "index": "48",
+        "character": "东西",
+        "pinyin": "dōng xī",
+        "meaning": "east and west",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "114th word"
+                }
+            ],
+            "definitions": [
+                "east and west"
+            ],
+            "audio_file": "./data/audio/polly-female-word82624.mp3"
+        }
+    },
+    {
+        "index": "55",
+        "character": "工作",
+        "pinyin": "gōng zuò",
+        "meaning": "to work; (of a machine) to operate; job; work; task; CL:個|个[ge4],份[fen4],項|项[xiang4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "144th word"
+                }
+            ],
+            "definitions": [
+                "to work",
+                "(of a machine) to operate",
+                "job",
+                "work",
+                "task",
+                "CL:個|个[ge4],份[fen4],項|项[xiang4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word53278.mp3"
+        }
+    },
+    {
+        "index": "61",
+        "character": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend; CL:個|个[ge4],位[wei4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "166th word"
+                }
+            ],
+            "definitions": [
+                "friend",
+                "CL:個|个[ge4],位[wei4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word80811.mp3"
+        }
+    },
+    {
+        "index": "62",
+        "character": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mama; mommy; mother; CL:個|个[ge4],位[wei4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "167th word"
+                }
+            ],
+            "definitions": [
+                "mama",
+                "mommy",
+                "mother",
+                "CL:個|个[ge4],位[wei4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word45293.mp3"
+        }
+    },
+    {
+        "index": "63",
+        "character": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today; at the present; now",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "174th word"
+                }
+            ],
+            "definitions": [
+                "today",
+                "at the present",
+                "now"
+            ],
+            "audio_file": "./data/audio/polly-female-word8879.mp3"
+        }
+    },
+    {
+        "index": "65",
+        "character": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "(informal) father; CL:個|个[ge4],位[wei4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "190th word"
+                }
+            ],
+            "definitions": [
+                "(informal) father",
+                "CL:個|个[ge4],位[wei4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word105161.mp3"
+        }
+    },
+    {
+        "index": "67",
+        "character": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "how?; how about?; how was it?; how are things?",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "197th word"
+                }
+            ],
+            "definitions": [
+                "how?",
+                "how about?",
+                "how was it?",
+                "how are things?"
+            ],
+            "audio_file": "./data/audio/polly-female-word60691.mp3"
+        }
+    },
+    {
+        "index": "68",
+        "character": "对不起",
+        "pinyin": "duì bu qǐ",
+        "meaning": "unworthy; to let down; I'm sorry; excuse me; pardon me; if you please; sorry? (please repeat)",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "200th word"
+                }
+            ],
+            "definitions": [
+                "unworthy",
+                "to let down",
+                "I'm sorry",
+                "excuse me",
+                "pardon me",
+                "if you please",
+                "sorry? (please repeat)"
+            ],
+            "audio_file": "./data/audio/polly-female-word50080.mp3"
+        }
+    },
+    {
+        "index": "71",
+        "character": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy; glad; willing (to do sth); in a cheerful mood",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "236th word"
+                }
+            ],
+            "definitions": [
+                "happy",
+                "glad",
+                "willing (to do sth)",
+                "in a cheerful mood"
+            ],
+            "audio_file": "./data/audio/polly-female-word184225.mp3"
+        }
+    },
+    {
+        "index": "73",
+        "character": "医生",
+        "pinyin": "yī shēng",
+        "meaning": "doctor; CL:個|个[ge4],位[wei4],名[ming2]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "248th word"
+                }
+            ],
+            "definitions": [
+                "doctor",
+                "CL:個|个[ge4],位[wei4],名[ming2]"
+            ],
+            "audio_file": "./data/audio/polly-female-word165265.mp3"
+        }
+    },
+    {
+        "index": "74",
+        "character": "哪儿",
+        "pinyin": "nǎ r",
+        "meaning": "where?; wherever; anywhere",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "255th word"
+                }
+            ],
+            "definitions": [
+                "where?",
+                "wherever",
+                "anywhere"
+            ],
+            "audio_file": "./data/audio/polly-female-word31785.mp3"
+        }
+    },
+    {
+        "index": "75",
+        "character": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name (of a person or thing); CL:個|个[ge4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "259th word"
+                }
+            ],
+            "definitions": [
+                "name (of a person or thing)",
+                "CL:個|个[ge4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word29620.mp3"
+        }
+    },
+    {
+        "index": "76",
+        "character": "认识",
+        "pinyin": "rèn shi",
+        "meaning": "to know; to recognize; to be familiar with; to get acquainted with sb; knowledge; understanding; awareness; cognition",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "260th word"
+                }
+            ],
+            "definitions": [
+                "to know",
+                "to recognize",
+                "to be familiar with",
+                "to get acquainted with sb",
+                "knowledge",
+                "understanding",
+                "awareness",
+                "cognition"
+            ],
+            "audio_file": "./data/audio/polly-female-word150068.mp3"
+        }
+    },
+    {
+        "index": "84",
+        "character": "看见",
+        "pinyin": "kàn jiàn",
+        "meaning": "to see; to catch sight of",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "312th word"
+                }
+            ],
+            "definitions": [
+                "to see",
+                "to catch sight of"
+            ],
+            "audio_file": "./data/audio/polly-female-word115239.mp3"
+        }
+    },
+    {
+        "index": "85",
+        "character": "打电话",
+        "pinyin": "dǎ diàn huà",
+        "meaning": "to make a telephone call",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "314th word"
+                }
+            ],
+            "definitions": [
+                "to make a telephone call"
+            ],
+            "audio_file": "./data/audio/polly-female-word65855.mp3"
+        }
+    },
+    {
+        "index": "87",
+        "character": "儿子",
+        "pinyin": "ér zi",
+        "meaning": "son",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "321st word"
+                }
+            ],
+            "definitions": [
+                "son"
+            ],
+            "audio_file": "./data/audio/polly-female-word16004.mp3"
+        }
+    },
+    {
+        "index": "88",
+        "character": "漂亮",
+        "pinyin": "piào liang",
+        "meaning": "pretty; beautiful",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "323rd word"
+                }
+            ],
+            "definitions": [
+                "pretty",
+                "beautiful"
+            ],
+            "audio_file": "./data/audio/polly-female-word99487.mp3"
+        }
+    },
+    {
+        "index": "89",
+        "character": "分钟",
+        "pinyin": "fēn zhōng",
+        "meaning": "minute",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "324th word"
+                }
+            ],
+            "definitions": [
+                "minute"
+            ],
+            "audio_file": "./data/audio/polly-female-word19902.mp3"
+        }
+    },
+    {
+        "index": "90",
+        "character": "再见",
+        "pinyin": "zài jiàn",
+        "meaning": "goodbye; see you again later",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "327th word"
+                }
+            ],
+            "definitions": [
+                "goodbye",
+                "see you again later"
+            ],
+            "audio_file": "./data/audio/polly-female-word18188.mp3"
+        }
+    },
+    {
+        "index": "92",
+        "character": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "352nd word"
+                }
+            ],
+            "definitions": [
+                "tomorrow"
+            ],
+            "audio_file": "./data/audio/polly-female-word77528.mp3"
+        }
+    },
+    {
+        "index": "93",
+        "character": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much?; how many?; (phone number, student ID etc) what number?",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "360th word"
+                }
+            ],
+            "definitions": [
+                "how much?",
+                "how many?",
+                "(phone number, student ID etc) what number?"
+            ],
+            "audio_file": "./data/audio/polly-female-word40103.mp3"
+        }
+    },
+    {
+        "index": "95",
+        "character": "女儿",
+        "pinyin": "nǚ ér",
+        "meaning": "daughter",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "406th word"
+                }
+            ],
+            "definitions": [
+                "daughter"
+            ],
+            "audio_file": "./data/audio/polly-female-word43825.mp3"
+        }
+    },
+    {
+        "index": "96",
+        "character": "小姐",
+        "pinyin": "xiǎo jie",
+        "meaning": "young lady; miss; (slang) prostitute; CL:個|个[ge4],位[wei4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "408th word"
+                }
+            ],
+            "definitions": [
+                "young lady",
+                "miss",
+                "(slang) prostitute",
+                "CL:個|个[ge4],位[wei4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word50656.mp3"
+        }
+    },
+    {
+        "index": "97",
+        "character": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes; CL:件[jian4],套[tao4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "420th word"
+                }
+            ],
+            "definitions": [
+                "clothes",
+                "CL:件[jian4],套[tao4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word145495.mp3"
+        }
+    },
+    {
+        "index": "99",
+        "character": "学校",
+        "pinyin": "xué xiào",
+        "meaning": "school; CL:所[suo3]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "447th word"
+                }
+            ],
+            "definitions": [
+                "school",
+                "CL:所[suo3]"
+            ],
+            "audio_file": "./data/audio/polly-female-word46338.mp3"
+        }
+    },
+    {
+        "index": "100",
+        "character": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie; film; CL:部[bu4],片[pian4],幕[mu4],場|场[chang3]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "458th word"
+                }
+            ],
+            "definitions": [
+                "movie",
+                "film",
+                "CL:部[bu4],片[pian4],幕[mu4],場|场[chang3]"
+            ],
+            "audio_file": "./data/audio/polly-female-word176076.mp3"
+        }
+    },
+    {
+        "index": "104",
+        "character": "医院",
+        "pinyin": "yī yuàn",
+        "meaning": "hospital; CL:所[suo3],家[jia1],座[zuo4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "610th word"
+                }
+            ],
+            "definitions": [
+                "hospital",
+                "CL:所[suo3],家[jia1],座[zuo4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word165307.mp3"
+        }
+    },
+    {
+        "index": "106",
+        "character": "没关系",
+        "pinyin": "méi guān xi",
+        "meaning": "it doesn't matter",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "619th word"
+                }
+            ],
+            "definitions": [
+                "it doesn't matter"
+            ],
+            "audio_file": "./data/audio/polly-female-word93008.mp3"
+        }
+    },
+    {
+        "index": "107",
+        "character": "飞机",
+        "pinyin": "fēi jī",
+        "meaning": "airplane; CL:架[jia4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "645th word"
+                }
+            ],
+            "definitions": [
+                "airplane",
+                "CL:架[jia4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word180460.mp3"
+        }
+    },
+    {
+        "index": "109",
+        "character": "电视",
+        "pinyin": "diàn shì",
+        "meaning": "television; TV; CL:臺|台[tai2],個|个[ge4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "668th word"
+                }
+            ],
+            "definitions": [
+                "television",
+                "TV",
+                "CL:臺|台[tai2],個|个[ge4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word176312.mp3"
+        }
+    },
+    {
+        "index": "111",
+        "character": "后面",
+        "pinyin": "hòu miàn",
+        "meaning": "rear; back; behind; later; afterwards; also pr. [hou4 mian5]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "701st word"
+                }
+            ],
+            "definitions": [
+                "rear",
+                "back",
+                "behind",
+                "later",
+                "afterwards",
+                "also pr. [hou4 mian5]"
+            ],
+            "audio_file": "./data/audio/polly-female-word58951.mp3"
+        }
+    },
+    {
+        "index": "112",
+        "character": "昨天",
+        "pinyin": "zuó tiān",
+        "meaning": "yesterday",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "704th word"
+                }
+            ],
+            "definitions": [
+                "yesterday"
+            ],
+            "audio_file": "./data/audio/polly-female-word78059.mp3"
+        }
+    },
+    {
+        "index": "113",
+        "character": "睡觉",
+        "pinyin": "shuì jiào",
+        "meaning": "to go to bed; to sleep",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "779th word"
+                }
+            ],
+            "definitions": [
+                "to go to bed",
+                "to sleep"
+            ],
+            "audio_file": "./data/audio/polly-female-word115805.mp3"
+        }
+    },
+    {
+        "index": "115",
+        "character": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher; CL:個|个[ge4],位[wei4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "804th word"
+                }
+            ],
+            "definitions": [
+                "teacher",
+                "CL:個|个[ge4],位[wei4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word131156.mp3"
+        }
+    },
+    {
+        "index": "116",
+        "character": "星期",
+        "pinyin": "xīng qī",
+        "meaning": "week; CL:個|个[ge4]; day of the week; Sunday",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "812th word"
+                }
+            ],
+            "definitions": [
+                "week",
+                "CL:個|个[ge4]",
+                "day of the week",
+                "Sunday"
+            ],
+            "audio_file": "./data/audio/polly-female-word77826.mp3"
+        }
+    },
+    {
+        "index": "119",
+        "character": "电脑",
+        "pinyin": "diàn nǎo",
+        "meaning": "computer; CL:臺|台[tai2]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "957th word"
+                }
+            ],
+            "definitions": [
+                "computer",
+                "CL:臺|台[tai2]"
+            ],
+            "audio_file": "./data/audio/polly-female-word176264.mp3"
+        }
+    },
+    {
+        "index": "121",
+        "character": "学生",
+        "pinyin": "xué sheng",
+        "meaning": "student; schoolchild",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "1022nd word"
+                }
+            ],
+            "definitions": [
+                "student",
+                "schoolchild"
+            ],
+            "audio_file": "./data/audio/polly-female-word46372.mp3"
+        }
+    },
+    {
+        "index": "122",
+        "character": "下午",
+        "pinyin": "xià wǔ",
+        "meaning": "afternoon; CL:個|个[ge4]; p.m.",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "1026th word"
+                }
+            ],
+            "definitions": [
+                "afternoon",
+                "CL:個|个[ge4]",
+                "p.m."
+            ],
+            "audio_file": "./data/audio/polly-female-word2629.mp3"
+        }
+    },
+    {
+        "index": "124",
+        "character": "学习",
+        "pinyin": "xué xí",
+        "meaning": "to learn; to study",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "1218th word"
+                }
+            ],
+            "definitions": [
+                "to learn",
+                "to study"
+            ],
+            "audio_file": "./data/audio/polly-female-word46396.mp3"
+        }
+    },
+    {
+        "index": "126",
+        "character": "前面",
+        "pinyin": "qián miàn",
+        "meaning": "ahead; in front; preceding; above; also pr. [qian2 mian5]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "1324th word"
+                }
+            ],
+            "definitions": [
+                "ahead",
+                "in front",
+                "preceding",
+                "above",
+                "also pr. [qian2 mian5]"
+            ],
+            "audio_file": "./data/audio/polly-female-word21187.mp3"
+        }
+    },
+    {
+        "index": "128",
+        "character": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "1406th word"
+                }
+            ],
+            "definitions": [
+                "China"
+            ],
+            "audio_file": "./data/audio/polly-female-word4692.mp3"
+        }
+    },
+    {
+        "index": "131",
+        "character": "桌子",
+        "pinyin": "zhuō zi",
+        "meaning": "table; desk; CL:張|张[zhang1],套[tao4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "1651st word"
+                }
+            ],
+            "definitions": [
+                "table",
+                "desk",
+                "CL:張|张[zhang1],套[tao4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word84460.mp3"
+        }
+    },
+    {
+        "index": "132",
+        "character": "出租车",
+        "pinyin": "chū zū chē",
+        "meaning": "taxi; (Tw) rental car",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "1749th word"
+                }
+            ],
+            "definitions": [
+                "taxi",
+                "(Tw) rental car"
+            ],
+            "audio_file": "./data/audio/polly-female-word19372.mp3"
+        }
+    },
+    {
+        "index": "133",
+        "character": "天气",
+        "pinyin": "tiān qì",
+        "meaning": "weather",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "2014th word"
+                }
+            ],
+            "definitions": [
+                "weather"
+            ],
+            "audio_file": "./data/audio/polly-female-word42288.mp3"
+        }
+    },
+    {
+        "index": "136",
+        "character": "商店",
+        "pinyin": "shāng diàn",
+        "meaning": "store; shop; CL:家[jia1],個|个[ge4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "2051st word"
+                }
+            ],
+            "definitions": [
+                "store",
+                "shop",
+                "CL:家[jia1],個|个[ge4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word32290.mp3"
+        }
+    },
+    {
+        "index": "137",
+        "character": "椅子",
+        "pinyin": "yǐ zi",
+        "meaning": "chair; CL:把[ba3],套[tao4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "2116th word"
+                }
+            ],
+            "definitions": [
+                "chair",
+                "CL:把[ba3],套[tao4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word85398.mp3"
+        }
+    },
+    {
+        "index": "138",
+        "character": "同学",
+        "pinyin": "tóng xué",
+        "meaning": "to study at the same school; fellow student; classmate; CL:位[wei4],個|个[ge4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "2388th word"
+                }
+            ],
+            "definitions": [
+                "to study at the same school",
+                "fellow student",
+                "classmate",
+                "CL:位[wei4],個|个[ge4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word29357.mp3"
+        }
+    },
+    {
+        "index": "139",
+        "character": "一点儿",
+        "pinyin": "yī diǎn r",
+        "meaning": "erhua variant of 一點|一点[yi1 dian3]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "2518th word"
+                }
+            ],
+            "definitions": [
+                "erhua variant of 一點|一点[yi1 dian3]"
+            ],
+            "audio_file": "./data/audio/polly-female-word1345.mp3"
+        }
+    },
+    {
+        "index": "140",
+        "character": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple; CL:個|个[ge4],顆|颗[ke1]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "2942nd word"
+                }
+            ],
+            "definitions": [
+                "apple",
+                "CL:個|个[ge4],顆|颗[ke1]"
+            ],
+            "audio_file": "./data/audio/polly-female-word142885.mp3"
+        }
+    },
+    {
+        "index": "141",
+        "character": "饭店",
+        "pinyin": "fàn diàn",
+        "meaning": "restaurant; hotel; CL:家[jia1],個|个[ge4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "3334th word"
+                }
+            ],
+            "definitions": [
+                "restaurant",
+                "hotel",
+                "CL:家[jia1],個|个[ge4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word180762.mp3"
+        }
+    },
+    {
+        "index": "142",
+        "character": "中午",
+        "pinyin": "zhōng wǔ",
+        "meaning": "noon; midday; CL:個|个[ge4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "3366th word"
+                }
+            ],
+            "definitions": [
+                "noon",
+                "midday",
+                "CL:個|个[ge4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word4669.mp3"
+        }
+    },
+    {
+        "index": "143",
+        "character": "上午",
+        "pinyin": "shàng wǔ",
+        "meaning": "morning; CL:個|个[ge4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "3539th word"
+                }
+            ],
+            "definitions": [
+                "morning",
+                "CL:個|个[ge4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word2195.mp3"
+        }
+    },
+    {
+        "index": "144",
+        "character": "水果",
+        "pinyin": "shuǐ guǒ",
+        "meaning": "fruit; CL:個|个[ge4]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "3562nd word"
+                }
+            ],
+            "definitions": [
+                "fruit",
+                "CL:個|个[ge4]"
+            ],
+            "audio_file": "./data/audio/polly-female-word91643.mp3"
+        }
+    },
+    {
+        "index": "145",
+        "character": "杯子",
+        "pinyin": "bēi zi",
+        "meaning": "cup; glass; CL:個|个[ge4],隻|只[zhi1]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "3817th word"
+                }
+            ],
+            "definitions": [
+                "cup",
+                "glass",
+                "CL:個|个[ge4],隻|只[zhi1]"
+            ],
+            "audio_file": "./data/audio/polly-female-word82217.mp3"
+        }
+    },
+    {
+        "index": "146",
+        "character": "下雨",
+        "pinyin": "xià yǔ",
+        "meaning": "to rain",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "6507th word"
+                }
+            ],
+            "definitions": [
+                "to rain"
+            ],
+            "audio_file": "./data/audio/polly-female-word2851.mp3"
+        }
+    },
+    {
+        "index": "147",
+        "character": "米饭",
+        "pinyin": "mǐ fàn",
+        "meaning": "(cooked) rice",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "9097th word"
+                }
+            ],
+            "definitions": [
+                "(cooked) rice"
+            ],
+            "audio_file": "./data/audio/polly-female-word123281.mp3"
+        }
+    },
+    {
+        "index": "148",
+        "character": "北京",
+        "pinyin": "běi jīng",
+        "meaning": "Beijing, capital of People's Republic of China; Peking; PRC government",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "9390th word"
+                }
+            ],
+            "definitions": [
+                "Beijing, capital of People's Republic of China",
+                "Peking",
+                "PRC government"
+            ],
+            "audio_file": "./data/audio/polly-female-word23743.mp3"
+        }
+    },
+    {
+        "index": "149",
+        "character": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language; CL:門|门[men2]",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "21481st word"
+                }
+            ],
+            "definitions": [
+                "Chinese language",
+                "CL:門|门[men2]"
+            ],
+            "audio_file": "./data/audio/polly-female-word99800.mp3"
+        }
+    },
+    {
+        "index": "150",
+        "character": "不客气",
+        "pinyin": "bù kè qi",
+        "meaning": "you're welcome; don't mention it; impolite; rude; blunt",
+        "detailed": {
+            "word_info": [
+                {
+                    "HSK": "1"
+                },
+                {
+                    "FREQUENCY": "Unknown"
+                }
+            ],
+            "definitions": [
+                "you're welcome",
+                "don't mention it",
+                "impolite",
+                "rude",
+                "blunt"
+            ],
+            "audio_file": null
+        }
+    }
+]
