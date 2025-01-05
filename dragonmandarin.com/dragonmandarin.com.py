@@ -44,6 +44,46 @@ def _download_audio(url: str, save_path: str):
     return save_path
 
 
+def _add_audio_data(soup, url, data, save_path):
+    if soup.audio:
+        data |= {
+            "audio_file": _download_audio(
+                f"{url.scheme}://{url.hostname}{soup.audio.attrs["src"]}",
+                os.path.join(
+                    save_path,
+                    f"audio/{unquote(soup.audio.attrs["src"]).split("/")[-1]}",
+                ),
+            )
+        }
+    else:
+        data |= {"audio_file": None}
+
+
+def _sort_and_save_json(listdata: list, filename):
+    listdata = [x for x in listdata if x]
+    listdata = sorted(listdata, key=lambda x: int(x["index"]))
+    with open(filename.replace(".html", ".json"), "w+") as f:
+        json.dump(listdata, f, ensure_ascii=False, indent=4)
+
+
+def _start_threads(rows, url, refetch, save_path):
+    listdata = []
+    rows_len = len(rows)
+    with ThreadPoolExecutor() as executor:
+        futures = {
+            executor.submit(_process_rows, row, url, refetch, save_path): i
+            for i, row in enumerate(rows)
+        }
+
+        i = rows_len
+        for future in as_completed(futures):
+            print(f"Processed: {i} of {rows_len}")
+            i -= 1
+            listdata.append(future.result())
+
+    return listdata
+
+
 def _newlines_cleaned(i, columns):
     return " ".join(
         x.strip() for x in columns[i].get_text(strip=True).splitlines() if x.strip()
@@ -63,58 +103,49 @@ def _fetch_and_soup(url: str, file_path: str, refetch=False) -> BeautifulSoup:
     return BeautifulSoup(content, "html.parser")
 
 
-def _process_row(row, url: ParseResult, refetch: bool, save_path: str):
-    columns = row.find_all("td")
-    if not columns:
-        return []
+def _process_rows(row, url: ParseResult, refetch: bool, save_path: str):
+    data = {}
+    if "characters" in url.path:
+        columns = row.find_all("td")
+        data = {
+            "index": _newlines_cleaned(0, columns),
+            "character": _newlines_cleaned(1, columns),
+            "pinyin": _newlines_cleaned(2, columns),
+            "definition": _newlines_cleaned(3, columns),
+            "words": _newlines_cleaned(4, columns),
+        }
 
-    data = {
-        "index": _newlines_cleaned(0, columns),
-        "character": _newlines_cleaned(1, columns),
-        "pinyin": _newlines_cleaned(2, columns),
-        "definition": _newlines_cleaned(3, columns),
-        "words": _newlines_cleaned(4, columns),
-    }
+        data |= {
+            "detailed": _jsonify_individual_hanzi_page(
+                urlparse(
+                    urljoin(f"{url.scheme}://{url.netloc}", columns[1].a.attrs["href"])
+                ),
+                refetch,
+                save_path,
+            )
+        }
+    elif "words" in url.path:
+        columns = row.find_all("td")
+        data = {
+            "index": _newlines_cleaned(0, columns),
+            "character": _newlines_cleaned(1, columns),
+            "pinyin": _newlines_cleaned(2, columns),
+            "meaning": _newlines_cleaned(3, columns),
+        }
 
-    data |= {
-        "detailed": jsonify_hanzi_page(
-            urlparse(
-                urljoin(f"{url.scheme}://{url.netloc}", columns[1].a.attrs["href"])
-            ),
-            refetch,
-            save_path,
-        )
-    }
+        data |= {
+            "detailed": _jsonify_individual_word_page(
+                urlparse(
+                    urljoin(f"{url.scheme}://{url.netloc}", columns[1].a.attrs["href"])
+                ),
+                refetch,
+                save_path,
+            )
+        }
     return data
 
 
-def jsonify_main_page(url: ParseResult, refetch: bool, save_path: str):
-    filename = url.geturl().removeprefix("https://").replace("/", "_") + ".html"
-    soup = _fetch_and_soup(url.geturl(), os.path.join(save_path, filename), refetch)
-    listdata = []
-    data = {}
-
-    rows = soup.find_all("tr")
-    rows_len = len(rows)
-    with ThreadPoolExecutor() as executor:
-        futures = {
-            executor.submit(_process_row, row, url, refetch, save_path): i
-            for i, row in enumerate(rows)
-        }
-
-        for future in as_completed(futures):
-            i = futures[future]
-            data = future.result()
-            print(f"Processed: {i} of {rows_len}")
-            listdata.append(data)
-
-    listdata = [x for x in listdata if x]
-    listdata = sorted(listdata, key=lambda x: int(x["index"]))
-    with open(filename.replace(".html", ".json"), "w+") as f:
-        json.dump(listdata, f, ensure_ascii=False, indent=4)
-
-
-def jsonify_hanzi_page(
+def _jsonify_individual_hanzi_page(
     url: ParseResult, refetch: bool, save_path: str
 ) -> dict[str, str]:
     data = {}
@@ -174,34 +205,93 @@ def jsonify_hanzi_page(
         ],
     }
 
-    if soup.audio:
-        data |= {
-            "audio_file": _download_audio(
-                f"{url.scheme}://{url.hostname}{soup.audio.attrs["src"]}",
-                os.path.join(
-                    save_path,
-                    f"audio/{unquote(soup.audio.attrs["src"]).split("/")[-1]}",
-                ),
-            )
-        }
-    else:
-        data |= {"audio_file": None}
+    _add_audio_data(soup, url, data, save_path)
 
     return data
 
 
+def _jsonify_individual_word_page(
+    url: ParseResult, refetch: bool, save_path: str
+) -> dict[str, str]:
+    data = {}
+    soup: Any = _fetch_and_soup(
+        url.geturl(),
+        os.path.join(save_path, unquote(url.path.split("/")[-1]) + ".html"),
+        refetch,
+    )
+
+    definitions = soup.find(name="h2", string="DEFINITIONS").find_parent("div")
+    if definitions.find_next_sibling("ul"):
+        definitions = [
+            x.get_text().strip()
+            for x in definitions.find_next_sibling("ul")
+            if x.get_text().strip()
+        ]
+    elif definitions.find_next_sibling("ol"):
+        definitions = [
+            x.get_text().strip()
+            for x in definitions.find_next_sibling("ol")
+            if x.get_text().strip()
+        ]
+
+    data |= {
+        "word_info": [
+            dict([x.get_text().strip().replace("\n\n", "\n").splitlines()])
+            for x in soup.find(name="h2", string="Word")
+            .find_next_sibling("table")
+            .find_all("tr")
+        ],
+        "definitions": definitions,
+    }
+
+    _add_audio_data(soup, url, data, save_path)
+
+    return data
+
+
+def jsonify_characters_page(url: ParseResult, refetch: bool, save_path: str):
+    filename = url.geturl().removeprefix("https://").replace("/", "_") + ".html"
+    soup: Any = _fetch_and_soup(
+        url.geturl(), os.path.join(save_path, filename), refetch
+    )
+
+    rows = soup.find("tbody").find_all("tr")
+    listdata = _start_threads(rows, url, refetch, save_path)
+    _sort_and_save_json(listdata, filename)
+
+
+def jsonify_words_page(url: ParseResult, refetch: bool, save_path: str):
+    filename = url.geturl().removeprefix("https://").replace("/", "_") + ".html"
+    soup: Any = _fetch_and_soup(
+        url.geturl(), os.path.join(save_path, filename), refetch
+    )
+
+    rows = [
+        x
+        for x in soup.find("tbody").find_all("tr")
+        if x.find("a", attrs={"href": lambda x: "words" in x})
+    ]
+    listdata = _start_threads(rows, url, refetch, save_path)
+    _sort_and_save_json(listdata, filename)
+
+
 def main(args):
-    jsonify_main_page(urlparse(args.url), args.refetch, args.output)
+    if "characters" in args.url:
+        jsonify_words_page(urlparse(args.url), args.refetch, args.output)
+    elif "words" in args.url.find("words"):
+        jsonify_characters_page(urlparse(args.url), args.refetch, args.output)
+    else:
+        print("Incorrect URL")
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Fetch HSK characters from dragonmandarin.com"
+        description="Fetch HSK characters and words from dragonmandarin.com"
     )
     parser.add_argument(
         "url",
         type=str,
-        help="""Strict URLs to fetch HSK characters from dragonmandarin.com
+        help="""Strict URLs to fetch HSK characters or words from dragonmandarin.com
         Example: python dragonmandarin.com.py https://dragonmandarin.com/hsk1/characters""",
     )
     parser.add_argument(
@@ -215,7 +305,7 @@ if __name__ == "__main__":
         "-f",
         "--refetch",
         action="store_true",
-        help="Force refetch a fresh page. (default: False)",
+        help="Force refetch fresh files. (default: False)",
     )
     args = parser.parse_args()
 
