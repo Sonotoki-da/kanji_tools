@@ -1,0 +1,3 @@
+# Generating colorized hanzi is a pain, man...
+
+Whatever. I already know how to draw strokes from Japanese 漢字, which are ackshually traditional Chinese 汉字 btw. It's not that hard.
